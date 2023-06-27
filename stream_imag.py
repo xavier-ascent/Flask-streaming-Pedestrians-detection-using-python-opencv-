@@ -6,6 +6,7 @@ Created on Thu Nov 14 18:57:44 2019
 """
 
 import cv2 
+
 from flask import Flask, render_template, Response
 
 app = Flask(__name__)

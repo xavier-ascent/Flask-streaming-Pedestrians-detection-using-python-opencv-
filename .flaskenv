@@ -1,0 +1,1 @@
+export FLASK_APP=stream_images_ascent.py
